@@ -1,0 +1,12 @@
+INSERT INTO tb_users(name,email,salary) VALUES ('Maria', 'maria@gmail.com',1334567898);
+INSERT INTO tb_users(name,email,salary) VALUES ('jose', 'jose@gmail.com',133465487);
+INSERT INTO tb_users(name,email,salary) VALUES ('Silvio', 'silvio@gmail.com',1334567887);
+INSERT INTO tb_users(name,email,salary) VALUES ('Washington', 'washington@gmail.com',4434567898);
+INSERT INTO tb_users(name,email,salary) VALUES ('Terreza', 'tereza@gmail.com',133456789800);
+INSERT INTO tb_users(name,email,salary) VALUES ('Luciano', 'luciano@gmail.com',133456789844);
+INSERT INTO tb_users(name,email,salary) VALUES ('Fabio', 'fabio@gmail.com',188334567898);
+INSERT INTO tb_users(name,email,salary) VALUES ('Gisele', 'gisele@gmail.com',13346555487);
+INSERT INTO tb_users(name,email,salary) VALUES ('Larissa', 'larissa@gmail.com',1334847567887);
+INSERT INTO tb_users(name,email,salary) VALUES ('Natanael', 'natanael@gmail.com',44342154567898);
+INSERT INTO tb_users(name,email,salary) VALUES ('Meire', 'meirele@gmail.com',13003456789800);
+INSERT INTO tb_users(name,email,salary) VALUES ('Ana', 'ana@gmail.com',13342256789844);
