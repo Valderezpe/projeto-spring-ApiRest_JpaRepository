@@ -2,7 +2,7 @@ INSERT INTO tb_users(name,email,salary) VALUES ('Maria', 'maria@gmail.com',548.5
 INSERT INTO tb_users(name,email,salary) VALUES ('jose', 'jose@gmail.com',987.56);
 INSERT INTO tb_users(name,email,salary) VALUES ('Silvio', 'silvio@gmail.com',2545.11);
 INSERT INTO tb_users(name,email,salary) VALUES ('Washington', 'washington@gmail.com',2457.00);
-INSERT INTO tb_users(name,email,salary) VALUES ('Terreza', 'tereza@gmail.com',987;78);
+INSERT INTO tb_users(name,email,salary) VALUES ('Terreza', 'tereza@gmail.com',987.78);
 INSERT INTO tb_users(name,email,salary) VALUES ('Luciano', 'luciano@gmail.com',879.55);
 INSERT INTO tb_users(name,email,salary) VALUES ('Fabio', 'fabio@gmail.com',1548.00);
 INSERT INTO tb_users(name,email,salary) VALUES ('Gisele', 'gisele@gmail.com',8500.54);
